@@ -8465,6 +8465,7 @@ li.categoryBar-list-item {
 
 /* 雪花特效 */
 [data-theme="light"] #snow {
+  display: block;
   position: fixed;
   left: 0;
   top: 0;
